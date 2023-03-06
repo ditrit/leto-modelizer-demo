@@ -1,0 +1,316 @@
+{
+  "githubator-plugin": {
+    "workflow_1": {
+      "x": -242.173828125,
+      "y": 174.306884765625,
+      "width": 2723,
+      "height": 1321,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "trigger_1": {
+      "x": 30,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_1": {
+      "x": 30,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "delete-comments": {
+      "x": 468.40077209472656,
+      "y": 119.9066390991211,
+      "width": 185,
+      "height": 225,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_2": {
+      "x": 30,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "branch-naming-rules": {
+      "x": 468.4008026123047,
+      "y": 373.0799560546875,
+      "width": 185,
+      "height": 225,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_3": {
+      "x": 30,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_4": {
+      "x": 180,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_5": {
+      "x": 330,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_6": {
+      "x": 480,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_7": {
+      "x": 630,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_8": {
+      "x": 780,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_9": {
+      "x": 930,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "build": {
+      "x": 30,
+      "y": 650,
+      "width": 1085,
+      "height": 225,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_10": {
+      "x": 30,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_11": {
+      "x": 180,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_12": {
+      "x": 330,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_13": {
+      "x": 480,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_14": {
+      "x": 630,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "check-style": {
+      "x": 1274.52001953125,
+      "y": 594.5470581054688,
+      "width": 785,
+      "height": 225,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_15": {
+      "x": 30,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_16": {
+      "x": 180,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_17": {
+      "x": 330,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_18": {
+      "x": 480,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_19": {
+      "x": 630,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_20": {
+      "x": 780,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "unit-tests": {
+      "x": 1162.52001953125,
+      "y": 980.7867431640625,
+      "width": 935,
+      "height": 225,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_21": {
+      "x": 30,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_22": {
+      "x": 180,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_23": {
+      "x": 330,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_24": {
+      "x": 480,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_25": {
+      "x": 630,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_26": {
+      "x": 780,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_27": {
+      "x": 930,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "check-dependencies": {
+      "x": 1214.7467041015625,
+      "y": 99.69230651855469,
+      "width": 1085,
+      "height": 225,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_28": {
+      "x": 30,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_29": {
+      "x": 180,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "step_30": {
+      "x": 330,
+      "y": 30,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "sonarcloud": {
+      "x": 2203.13330078125,
+      "y": 729.7333374023438,
+      "width": 485,
+      "height": 225,
+      "needsResizing": false,
+      "needsPositioning": false
+    }
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "terrator-plugin": {
+    "aws_1": {
+      "x": 615.8123779296875,
+      "y": 129.58810424804688,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "ubuntu": {
+      "x": 1455.3306884765625,
+      "y": 717.85888671875,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_db_version": {
+      "x": 839.9885864257812,
+      "y": 129.2471466064453,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "available": {
+      "x": 1064.38671875,
+      "y": 125,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_main_vpc": {
+      "x": 616.5198974609375,
+      "y": 222.72869873046875,
+      "width": 556,
+      "height": 962,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_frontend_subnet_az1": {
+      "x": 398.9543762207031,
+      "y": 366.3345642089844,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_frontend_subnet_az2": {
+      "x": 61.494293212890625,
+      "y": 363.3802185058594,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_internet_gw": {
+      "x": 231.88912963867188,
+      "y": 766.881103515625,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_routing_tbl": {
+      "x": 220.40301513671875,
+      "y": 124.24714660644531,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_lb_subnet_az1": {
+      "x": 38.627349853515625,
+      "y": 19.988590240478516,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_lb_subnet_az2": {
+      "x": 43.699066162109375,
+      "y": 226.84988403320312,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_lb_subnet_az1_gw_assoc": {
+      "x": 221.40301513671875,
+      "y": 20.49429702758789,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_lb_subnet_az2_gw_assoc": {
+      "x": 219.7490997314453,
+      "y": 227.84991455078125,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_backend_subnet_az1": {
+      "x": 403.0709228515625,
+      "y": 19.88329315185547,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_backend_subnet_az2": {
+      "x": 402.25018310546875,
+      "y": 232.15011596679688,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_dmz_subnet": {
+      "x": 223.21292114257812,
+      "y": 357.87451171875,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_frontend_secgroup_http": {
+      "x": 231.77621459960938,
+      "y": 657.6350708007812,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_frontend_secgroup_nfs": {
+      "x": 231.77621459960938,
+      "y": 543.5242309570312,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_frontend_secgroup_ssh": {
+      "x": 403.6612854003906,
+      "y": 662.9697875976562,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_backend_secgroup": {
+      "x": 411.4942932128906,
+      "y": 544.2813720703125,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_lb_secgroup_https": {
+      "x": 61.25856018066406,
+      "y": 548.045654296875,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_lb_secgroup_http": {
+      "x": 64,
+      "y": 657.2814331054688,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_lb_logs_bucket": {
+      "x": -80,
+      "y": 834.038330078125,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_lb_logs_bucket_acl": {
+      "x": -77.95735359191895,
+      "y": 1004.9102783203125,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_frontend_lb": {
+      "x": -80.46453094482422,
+      "y": 665.3226318359375,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_lb_target": {
+      "x": 466.60638427734375,
+      "y": 663.8901977539062,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_launch_conf": {
+      "x": 1454.5523681640625,
+      "y": 587.8628540039062,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_asg": {
+      "x": 839.2448120117188,
+      "y": 1263,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_policy_up": {
+      "x": 717.4031982421875,
+      "y": 1468.0816650390625,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_cpu_alarm_up": {
+      "x": 1062.2703857421875,
+      "y": 1262.1888427734375,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_policy_down": {
+      "x": 962.4080810546875,
+      "y": 1470.459228515625,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_cpu_alarm_down": {
+      "x": 616.892822265625,
+      "y": 1263.459228515625,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_fileshare": {
+      "x": 1264,
+      "y": 557.3802490234375,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_lb_listener": {
+      "x": 302.3226623535156,
+      "y": 664,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_fileshare_mount": {
+      "x": 1264,
+      "y": 672.1672973632812,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_db_subnets": {
+      "x": 1328,
+      "y": 420.1418762207031,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    },
+    "cms_db": {
+      "x": 1264.494384765625,
+      "y": 848.0342407226562,
+      "width": 110,
+      "height": 80,
+      "needsResizing": false,
+      "needsPositioning": false
+    }
+  }
+}
